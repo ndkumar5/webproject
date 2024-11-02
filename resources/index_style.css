@@ -1,0 +1,69 @@
+/*
+heading 1: #E14A1E
+heading 2: #E44E1B
+
+for table: #E2631D
+Accent: #B94653
+
+background:#D8EEFF
+
+*/
+
+h1 {
+	color:#E14A1E;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	color:#E44E1B;
+}
+
+p.picture {
+	text-align: center;
+}
+
+a:hover {
+	color: #B94653;
+}
+
+a:link {
+	
+	font-weight: bold;
+	text-decoration: none;
+}
+p, li, table {
+	font-size: 1.2em;
+}
+
+th, td {
+	
+	border: #E2631D solid 5px;
+	padding:12px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+	background-color: #D8EEFF;
+	padding: 0 35px 45px 35px;
+	font-size: 1.2em;
+}
+
+p.lagoon{
+	text-align: center;
+	 
+}
+
+p.twinlagoon1 {
+	text-align: center;
+	padding-right:30px;
+}
+
+
